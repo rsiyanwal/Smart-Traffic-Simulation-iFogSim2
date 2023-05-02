@@ -1,3 +1,7 @@
+## Download
+Download the **SmartTrafficSimulation.jar** from the release Smart-Traffic-Evaluation-v1.0.1.
+
+## iFogSim information (Not needed for the Release to work)
 By adjusting parameters such as MIPS, RAM, bandwidth, busy power, and idle power, we identified the most suitable devices for our use case and determined the most energy-efficient devices with the lowest latency. A generic input for a simulation task in iFogSim is as follow,
 | Input Name | Input Type | Description |
 | ---------- | ---------- | ----------- |
